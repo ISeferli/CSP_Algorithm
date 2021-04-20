@@ -1,13 +1,15 @@
 # CSP_Algorithm-COM311
 ------------------------
 Assignment
+
 Course: COM 311 - Artificial Intelligence
 
 Seferli Iliodora 2017030094
+
 ------------------------
 
 ------------------------
-I. Java Classes         
+I. Java Classes     
 ------------------------
 Algorithm.java		 Code implementing Backtracking algorithm for CSP use
 Main.java		 Main program
