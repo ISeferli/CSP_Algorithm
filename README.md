@@ -26,7 +26,7 @@ Any Java IDE
 
 III. Execution
 ------------------------
-Running the main program will give the result of the cryptarithmetic problem that it has acquired as an input. Specifically, the program will require from the user as an input the words given from the riddle, its result and in which arithmetic system it has been computed.
+Running the main program will give the result of the cryptarithmetic problem that it has acquired as an input. Specifically, the program will require from the user as an input the words given from the riddle, its result and in which arithmetic system it wants to be computed.
 
 ------------------------
 
