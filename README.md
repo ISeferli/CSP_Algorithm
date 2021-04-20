@@ -16,15 +16,19 @@ Main.java		 Main program
 
 Node.java		 Node that keeps each letter of the words given and its value
 
+------------------------
 
 II. Requirements
 ------------------------
 Any Java IDE
 
 ------------------------
+
 III. Execution
 ------------------------
 Running the main program will give the result of the cryptarithmetic problem that it has acquired as an input. Specifically, the program will require from the user as an input the words given from the riddle, its result and in which arithmetic system it has been computed.
+
+------------------------
 
 IV. Design
 ------------------------
