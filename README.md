@@ -1,10 +1,10 @@
-# CSP_Algorithm-COM311
+# CSP_Algorithm
 ------------------------
 Assignment
 
 Course: COM 311 - Artificial Intelligence
 
-Seferli Iliodora 2017030094
+Seferli Iliodora 
 
 ------------------------
 
